@@ -2,7 +2,8 @@
 
 # Hello, I'm Shamil! 👋  
 
-![My Professional Photo](https://github.com/imshamil23/imshamil23/raw/main/White%20Minimalist%20Data%20Analyst%20LinkedIn%20Background%20Photo.png)
+![My Professional Photo](https://github.com/imshamil23/imshamil23/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+
 
 ### Aspiring Data Analyst | Passionate about turning data into actionable insights! 📊📈
 
