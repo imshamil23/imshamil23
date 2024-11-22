@@ -27,7 +27,7 @@ Here are some of my projects:
   - Dashboards and reporting
 
 - 📫 How to reach me:  
-  - 📧 **Email**: mohammedshamil208@gmail.com
+  - 📧 **Email**: imshamil23@gmail.com
   - 📝 **LinkedIn**: https://www.linkedin.com/in/mohammed-shamil-54b61a307/
 
 ---
