@@ -10,22 +10,24 @@
 ## 🌟 About Me  
 I’m a **Data Analyst** passionate about exploring data and uncovering trends.  
 I enjoy applying statistical methods and machine learning models to solve real-world business problems.  
-You can find me working on **Python**, **SQL**, **Tableau**, and more to make data tell its story!
+You can find me working on **Python**, **SQL**, **Power BI**, **Tableau**, and more to make data tell its story!
 
-### Projects: Here are some of my projects:
+---
+
+### 🚀 Projects
+
 - 📝 **[SQL Project](https://github.com/imshamil23/SQL-Project)**: Analysis of a sales dataset using complex SQL queries.
 - 🚗 **[Uber Rides Data Analysis](https://github.com/imshamil23/Uber-Rides-Data-Analysis)**: Exploratory Data Analysis and Visualization of Uber rides.
 - 🤖 **[Machine Learning Project](https://github.com/imshamil23/Meachine-Learning-Project)**: Building a predictive model to detect fraudulent transactions.
 - 📊 **[End-to-End Data Analytics: SQL + Python](https://github.com/imshamil23/End-to-End-Data-Analytics-SQL-Python)**: A comprehensive data analytics pipeline using SQL and Python to extract, clean, analyze, and visualize data.
+- 💡 **[Power BI Dashboard](https://github.com/imshamil23/PowerBI)**: Developed interactive Power BI dashboards with DAX and Power Query for actionable business insights.
 
-- 💬 Ask me about:
-    - Data cleaning and exploratory data analysis (EDA)
-    - Feature engineering and model building
-    - Dashboards and reporting
+---
 
-- 📫 How to reach me:
-    - 📧 **Email**: imshamil23@gmail.com
-    - 📝 **LinkedIn**: [https://www.linkedin.com/in/mohammed-shamil-54b61a307/](https://www.linkedin.com/in/mohammed-shamil-54b61a307/)
+### 💬 Ask me about:
+- Data cleaning and exploratory data analysis (EDA)
+- Feature engineering and model building
+- Dashboards and reporting
 
 ---
 
@@ -34,8 +36,8 @@ You can find me working on **Python**, **SQL**, **Tableau**, and more to make da
 ### Languages and Tools:  
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sqlite)  
-[Tableau](https://img.shields.io/badge/-Tableau-%23E97627.svg?style=flat&logo=tableau)  
 ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi)  
+![Tableau](https://img.shields.io/badge/-Tableau-%23E97627.svg?style=flat&logo=tableau)  
 ![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-%2300469C.svg?style=flat&logo=seaborn)  
@@ -63,8 +65,8 @@ You can find me working on **Python**, **SQL**, **Tableau**, and more to make da
   - Model Evaluation (Cross-validation, Hyperparameter Tuning)
 
 - **Data Visualization**:  
-  - Tableau (Advanced)  
   - Power BI (Intermediate)  
+  - Tableau (Advanced)  
   - Matplotlib/Seaborn (Proficient)  
   - Plotly (Beginner)
 
@@ -83,3 +85,4 @@ You can find me working on **Python**, **SQL**, **Tableau**, and more to make da
 
 ## ✨ Fun Fact  
 *I love solving puzzles and analyzing complex datasets, always ready for new challenges!*
+
