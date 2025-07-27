@@ -84,23 +84,24 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 ## 🎓 Certifications  
 
 ### 📊 Excel Data Analysis – Microsoft  
-![Excel Certificate](https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate_page-0001.jpg)
+<img src="https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate_page-0001.jpg" width="400"/>
 
 ---
 
 ### 🤖 Machine Learning with Python – IBM  
-![IBM Certificate](https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb_page-0001.jpg)
+<img src="https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb_page-0001.jpg" width="400"/>
 
 ---
 
 ### 🧠 SQL & Database Essentials – Oracle DevGym  
-![Oracle Certificate](https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.jpg)
+<img src="https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.jpg" width="400"/>
 
 ---
 
 ### 📈 Data Visualization – TCS iON (Tata Consultancy Services)  
-![TCS Certificate](https://github.com/imshamil23/imshamil23/blob/main/tata_page-0001.jpg)
+<img src="https://github.com/imshamil23/imshamil23/blob/main/tata_page-0001.jpg" width="400"/>
 
+---
 
 ## 📊 GitHub Stats  
 
@@ -113,7 +114,6 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 *I enjoy solving logic puzzles, analyzing football match stats, and turning messy data into meaningful decisions!*
 
-
 ---
 
 ## 🔗 Let's Connect  
@@ -123,6 +123,5 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 📬 **Email:** [shamilv.doc@gmail.com](mailto:shamilv.doc@gmail.com)  
 📞 **Phone:** [+91 79940 73899](tel:+917994073899)
-
 
 </div>
