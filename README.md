@@ -113,12 +113,16 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 *I enjoy solving logic puzzles, analyzing football match stats, and turning messy data into meaningful decisions!*
 
+
 ---
 
 ## 🔗 Let's Connect  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-shamil-54b61a307)  
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub%20Portfolio-black?style=flat&logo=github)](https://github.com/imshamil23)  
-📬 Email: **shamilv.doc@gmail.com**
-📞 **Phone:** +91 79940 73899
+
+📬 **Email:** [shamilv.doc@gmail.com](mailto:shamilv.doc@gmail.com)  
+📞 **Phone:** [+91 79940 73899](tel:+917994073899)
+
 
 </div>
