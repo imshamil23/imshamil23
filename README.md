@@ -47,9 +47,20 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 ## 🛠️ Tech Stack
 
-<marquee scrollamount="5"><b>Languages & Tools:</b> 
-&nbsp; 🐍 Python &nbsp; | &nbsp; 🔢 SQL &nbsp; | &nbsp; 📊 Power BI &nbsp; | &nbsp; 📈 Tableau &nbsp; | &nbsp; 📗 Excel &nbsp; | &nbsp; 🐼 Pandas &nbsp; | &nbsp; 🔢 NumPy &nbsp; | &nbsp; 📉 Matplotlib &nbsp; | &nbsp; 🌊 Seaborn &nbsp; | &nbsp; 🤖 Scikit-Learn &nbsp; | &nbsp; 📓 Jupyter &nbsp; | &nbsp; 🔧 Git &nbsp; | &nbsp; 🐱 GitHub
-</marquee>
+### Languages & Tools:
+<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/-SQL-orange?style=flat&logo=sqlite"/>
+<img src="https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=powerbi"/>
+<img src="https://img.shields.io/badge/-Tableau-%23E97627.svg?style=flat&logo=tableau"/>
+<img src="https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/-Pandas-%23150458.svg?style=flat&logo=pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-%23013243.svg?style=flat&logo=numpy"/>
+<img src="https://img.shields.io/badge/-Matplotlib-white?style=flat&logo=matplotlib"/>
+<img src="https://img.shields.io/badge/-Seaborn-%2300469C.svg?style=flat&logo=seaborn"/>
+<img src="https://img.shields.io/badge/-Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/-Jupyter-%23F37626.svg?style=flat&logo=jupyter"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
 
 ---
 
@@ -73,16 +84,16 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 ## 🎓 Certifications  
 
 - 📊 [Excel Data Analysis Certificate – Microsoft](https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate.pdf)  
-  Demonstrated proficiency in advanced Excel functions, pivot tables, and dashboards for financial and business analysis.
+  ![Excel Certificate](https://github.com/imshamil23/imshamil23/blob/main/excel-cert.png)
 
 - 🤖 [Machine Learning with Python – IBM](https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb.pdf)  
-  Earned IBM certification for applying supervised learning models and evaluation techniques using Python and Scikit-learn.
+  ![IBM Certificate](https://github.com/imshamil23/imshamil23/blob/main/ibm-cert.png)
 
 - 🧠 [Oracle DevGym – SQL & Database Essentials](https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.pdf)  
-  Completed Oracle's DevGym challenge series, gaining practical SQL skills and database knowledge.
+  ![Oracle Certificate](https://github.com/imshamil23/imshamil23/blob/main/oracle-cert.png)
 
 - 📈 [Data Analytics Fundamentals – Tata Consultancy Services (TCS iON)](https://github.com/imshamil23/imshamil23/blob/main/tata.pdf)  
-  Learned the basics of data handling, analysis techniques, and their applications in solving business problems.
+  ![TCS Certificate](https://github.com/imshamil23/imshamil23/blob/main/tata-cert.png)
 
 ---
 
