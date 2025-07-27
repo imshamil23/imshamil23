@@ -105,8 +105,14 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imshamil23&theme=radical&hide_border=false" width="96%"/>
+</p>
 
 ---
 
