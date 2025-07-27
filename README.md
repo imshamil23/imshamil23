@@ -119,5 +119,6 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-shamil-54b61a307)  
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub%20Portfolio-black?style=flat&logo=github)](https://github.com/imshamil23)  
 📬 Email: **shamilv.doc@gmail.com**
+📞 **Phone:** +91 79940 73899
 
 </div>
