@@ -83,19 +83,24 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 ## 🎓 Certifications  
 
-- 📊 [Excel Data Analysis Certificate – Microsoft](https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate.pdf)  
-  ![Excel Certificate](https://github.com/imshamil23/imshamil23/blob/main/excel-cert.png)
-
-- 🤖 [Machine Learning with Python – IBM](https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb.pdf)  
-  ![IBM Certificate](https://github.com/imshamil23/imshamil23/blob/main/ibm-cert.png)
-
-- 🧠 [Oracle DevGym – SQL & Database Essentials](https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.pdf)  
-  ![Oracle Certificate](https://github.com/imshamil23/imshamil23/blob/main/oracle-cert.png)
-
-- 📈 [Data Analytics Fundamentals – Tata Consultancy Services (TCS iON)](https://github.com/imshamil23/imshamil23/blob/main/tata.pdf)  
-  ![TCS Certificate](https://github.com/imshamil23/imshamil23/blob/main/tata-cert.png)
+### 📊 Excel Data Analysis – Microsoft  
+![Excel Certificate](https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate_page-0001.jpg)
 
 ---
+
+### 🤖 Machine Learning with Python – IBM  
+![IBM Certificate](https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb_page-0001.jpg)
+
+---
+
+### 🧠 SQL & Database Essentials – Oracle DevGym  
+![Oracle Certificate](https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.jpg)
+
+---
+
+### 📈 Data Visualization – TCS iON (Tata Consultancy Services)  
+![TCS Certificate](https://github.com/imshamil23/imshamil23/blob/main/tata_page-0001.jpg)
+
 
 ## 📊 GitHub Stats  
 
