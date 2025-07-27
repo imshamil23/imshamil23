@@ -64,42 +64,16 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 
 ---
 
-## 🧠 Additional Skills
-
-- <b>Languages</b>: Python (Advanced), SQL (Advanced), R (Intermediate), JavaScript (Beginner), HTML/CSS (Beginner)
-
-- <b>Analysis</b>: Data Cleaning, EDA, Feature Engineering, KPI Tracking
-
-- <b>Machine Learning</b>:  
-  Supervised Learning (Regression, Decision Trees, Random Forest)  
-  Unsupervised Learning (Clustering, PCA)  
-  Model Evaluation (Cross-validation, Grid Search)
-
-- <b>Visualization</b>: Power BI, Tableau, Matplotlib, Seaborn, Plotly
-
-- <b>Other Tools</b>: Git, GitHub, Excel, Google Analytics, VS Code
-
----
-
 ## 🎓 Certifications  
 
-### 📊 Excel Data Analysis – Microsoft  
-<img src="https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate_page-0001.jpg" width="400"/>
-
----
-
-### 🤖 Machine Learning with Python – IBM  
-<img src="https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb_page-0001.jpg" width="400"/>
-
----
-
-### 🧠 SQL & Database Essentials – Oracle DevGym  
-<img src="https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.jpg" width="400"/>
-
----
-
-### 📈 Data Visualization – TCS iON (Tata Consultancy Services)  
-<img src="https://github.com/imshamil23/imshamil23/blob/main/tata_page-0001.jpg" width="400"/>
+<p align="center">
+  <img src="https://github.com/imshamil23/imshamil23/blob/main/Excel-Certificate_page-0001.jpg" width="45%"/>
+  <img src="https://github.com/imshamil23/imshamil23/blob/main/IBMDesign20250727-30-wukeb_page-0001.jpg" width="45%"/>
+</p>
+<p align="center">
+  <img src="https://github.com/imshamil23/imshamil23/blob/main/devgymcertificate.jpg" width="45%"/>
+  <img src="https://github.com/imshamil23/imshamil23/blob/main/tata_page-0001.jpg" width="45%"/>
+</p>
 
 ---
 
