@@ -106,12 +106,12 @@ I specialize in <b>data cleaning</b>, <b>exploratory data analysis (EDA)</b>, <b
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imshamil23&theme=tokyonight&hide_border=false" width="96%"/>
+  <img src="https://streak-stats.demolab.com?user=imshamil23&theme=tokyonight&hide_border=false&border_radius=10" width="96%"/>
 </p>
 
 ---
