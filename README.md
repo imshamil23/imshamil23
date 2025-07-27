@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 # I'm Mohammed Shamil  
-![Professional Banner](https://github.com/imshamil23/imshamil23/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![Professional Banner](https://github.com/imshamil23/imshamil23/blob/main/banner1.png)
 
 <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; color:white">
 
