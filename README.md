@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 # I'm Mohammed Shamil  
-![Professional Banner](https://github.com/imshamil23/imshamil23/blob/main/banner1.png)
+![Professional Banner](https://github.com/imshamil23/imshamil23/blob/main/Blue%20White%20Modern%20Financial%20Consultant%20LinkedIn%20Banner%20.png)
 
 <div style="background-color:#1e1e1e; padding:20px; border-radius:10px; color:white">
 
