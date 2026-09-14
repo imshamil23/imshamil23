@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1408,100:c9a84c&height=220&section=header&text=Mohammed%20Shamil&fontSize=52&fontColor=e0c06a&fontAlignY=38&desc=Data%20Analyst%20%7C%20Automation%20Analyst&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1408,100:d4af37&height=220&section=header&text=Mohammed%20Shamil&fontSize=52&fontColor=f4cd6b&fontAlignY=38&desc=Data%20Analyst%20%7C%20Automation%20Analyst&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://shamilanalytics.vercel.app" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions...;Excel+%2B+VBA+%2B+Power+BI+%2B+SQL;Automated+80%25+of+a+manual+reporting+process;Promoted+Data+Analyst+%E2%86%92+Automation+Analyst" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="mailto:shamilv.doc@gmail.com"><img src="https://img.shields.io/badge/Email-c9a84c?style=for-the-badge&logo=gmail&logoColor=0a0a0a" /></a>
-<a href="https://linkedin.com/in/mohammed-shamil-54b61a307" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-c9a84c?style=for-the-badge&logo=linkedin&logoColor=0a0a0a" /></a>
-<a href="https://shamilanalytics.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-c9a84c?style=for-the-badge&logo=vercel&logoColor=0a0a0a" /></a>
-<a href="https://github.com/imshamil23" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c" /></a>
+<a href="mailto:shamilv.doc@gmail.com"><img src="https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=0a0a0a" /></a>
+<a href="https://linkedin.com/in/mohammed-shamil-54b61a307" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-d4af37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a" /></a>
+<a href="https://shamilanalytics.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=vercel&logoColor=0a0a0a" /></a>
+<a href="https://github.com/imshamil23" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=d4af37" /></a>
 
 </div>
 
@@ -46,7 +46,7 @@ fun_fact:     Reduced a 55-minute daily MIS report to under 10 minutes
 <br/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-c9a84c?style=flat-square&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-d4af37?style=flat-square&logo=power-bi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
@@ -62,7 +62,7 @@ fun_fact:     Reduced a 55-minute daily MIS report to under 10 minutes
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Fabric-c9a84c?style=flat-square&logo=microsoft&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-d4af37?style=flat-square&logo=microsoft&logoColor=black"/>
 
 </div>
 
@@ -72,12 +72,12 @@ fun_fact:     Reduced a 55-minute daily MIS report to under 10 minutes
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&icon_color=c9a84c&text_color=f7f4ee&ring_color=c9a84c" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=c9a84c&text_color=f7f4ee&langs_count=8" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imshamil23&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=d4af37&text_color=f7f4ee&ring_color=d4af37" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshamil23&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=f7f4ee&langs_count=8" width="41%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imshamil23&hide_border=true&background=0a0a0a&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=f7f4ee&currStreakNum=f7f4ee&sideNums=f7f4ee&dates=ffffff66" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imshamil23&hide_border=true&background=0a0a0a&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=f7f4ee&currStreakNum=f7f4ee&sideNums=f7f4ee&dates=ffffff66" width="60%"/>
 
 </div>
 
@@ -85,20 +85,28 @@ fun_fact:     Reduced a 55-minute daily MIS report to under 10 minutes
 
 ## `04` — Featured Work
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&animation=twinkling" width="100%"/>
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#141414; border-left:4px solid #d4af37; border-radius:8px; padding:14px;">
 
-**🏆 Incentive Performance Leaderboard**
+<span style="display:inline-block; background:#d4af37; color:#0a0a0a; border-radius:50%; width:34px; height:34px; text-align:center; line-height:34px; font-size:18px;">🏆</span>
+
+**Incentive Performance Leaderboard**
 <br/>
 Login-gated, real-time leaderboard giving 20+ sales advisors private access to their own incentive numbers — sourced live from an Excel backend.
 <br/><br/>
 `SQL` `Google Apps Script` `Google Sheets`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#141414; border-left:4px solid #4fa3e3; border-radius:8px; padding:14px;">
 
-**📊 Call Center KPI Dashboard**
+<span style="display:inline-block; background:#4fa3e3; color:#0a0a0a; border-radius:50%; width:34px; height:34px; text-align:center; line-height:34px; font-size:18px;">📊</span>
+
+**Call Center KPI Dashboard**
 <br/>
 Multi-branch Power BI dashboard tracking response time, lead conversion, and outreach — published via Microsoft Fabric for shared team access.
 <br/><br/>
@@ -107,18 +115,22 @@ Multi-branch Power BI dashboard tracking response time, lead conversion, and out
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#141414; border-left:4px solid #4caf6a; border-radius:8px; padding:14px;">
 
-**⚙️ MIS Reporting Automation**
+<span style="display:inline-block; background:#4caf6a; color:#0a0a0a; border-radius:50%; width:34px; height:34px; text-align:center; line-height:34px; font-size:18px;">⚙️</span>
+
+**MIS Reporting Automation**
 <br/>
 VBA-driven consolidation layer that cut daily MIS report turnaround from ~55 minutes to under 10 — across 25+ branches.
 <br/><br/>
 `VBA` `Power Automate` `Excel`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#141414; border-left:4px solid #b47ee0; border-radius:8px; padding:14px;">
 
-**🎓 Marksheet Automation System**
+<span style="display:inline-block; background:#b47ee0; color:#0a0a0a; border-radius:50%; width:34px; height:34px; text-align:center; line-height:34px; font-size:18px;">🎓</span>
+
+**Marksheet Automation System**
 <br/>
 Excel + Google Sheets pipeline auto-generating formatted marksheets for 1,500+ student records, killing 8+ hrs/week of manual entry.
 <br/><br/>
@@ -151,8 +163,8 @@ Excel + Google Sheets pipeline auto-generating formatted marksheets for 1,500+ s
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=imshamil23&label=Profile%20Views&color=c9a84c&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=imshamil23&label=Profile%20Views&color=d4af37&style=flat-square"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,50:1a1408,100:0a0a0a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:1a1408,100:0a0a0a&height=120&section=footer"/>
 
 </div>
