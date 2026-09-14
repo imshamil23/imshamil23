@@ -29,12 +29,14 @@ currently:    Cutting reporting time, one broken workflow at a time
 fun_fact:     Reduced a 55-minute daily MIS report to under 10 minutes
 ```
 
-- 🔺 **Promoted** from Data Analyst to Automation Analyst in **9 months** — recognized for automation work that cut daily reporting turnaround by **~80%**
-- 📊 Own the daily VBA-based data consolidation layer feeding Power BI dashboards across **25+ branches**
-- ⚙️ Built Power Automate + VBA workflows that auto-generate and deliver performance reports — zero manual compilation
-- 🎓 Previously modernized academic reporting for **1,500+ student records** at Al Hidayath, killing 8+ hours/week of manual entry
-- 🧠 Currently deepening **SQL** to extend database-driven reporting beyond Excel
-- 📫 Reach me at **shamilv.doc@gmail.com**
+<ul style="font-size:17px; line-height:1.8; list-style:none; padding-left:0;">
+<li>🔺&nbsp; <span style="color:#d4af37; font-weight:700;">Promoted</span> from Data Analyst to Automation Analyst in <b>9 months</b> — recognized for automation work that cut daily reporting turnaround by <span style="color:#e05252; font-weight:700;">~80%</span></li>
+<li>📊&nbsp; Own the daily VBA-based data consolidation layer feeding <span style="color:#4fa3e3; font-weight:700;">Power BI</span> dashboards across <b>25+ branches</b></li>
+<li>⚙️&nbsp; Built <span style="color:#4caf6a; font-weight:700;">Power Automate</span> + <span style="color:#4caf6a; font-weight:700;">VBA</span> workflows that auto-generate and deliver performance reports — zero manual compilation</li>
+<li>🎓&nbsp; Previously modernized academic reporting for <b>1,500+ student records</b> at <span style="color:#b47ee0; font-weight:700;">Al Hidayath</span>, killing 8+ hours/week of manual entry</li>
+<li>🧠&nbsp; Currently deepening <span style="color:#4fa3e3; font-weight:700;">SQL</span> to extend database-driven reporting beyond Excel</li>
+<li>📫&nbsp; Reach me at <a href="mailto:shamilv.doc@gmail.com" style="color:#d4af37; font-weight:700;">shamilv.doc@gmail.com</a></li>
+</ul>
 
 <br/>
 
