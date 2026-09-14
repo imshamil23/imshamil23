@@ -13,6 +13,11 @@
 <a href="https://shamilanalytics.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="tel:+917994073899"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=imshamil23&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/imshamil23?label=Followers&style=for-the-badge&color=EC4899"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -42,29 +47,44 @@ fun_fact: "Promoted within 9 months for cutting daily reporting time by 80%+"
 
 <div align="center">
 
-### 🟢 Advanced
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VBA-9B59B6?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+**📊 Analytics & Reporting**
 
-### 🟡 Intermediate
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-2E7D32?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-FBBC05?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-### 🔵 Developing
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br/><br/>
 
-### 🧩 Platforms & Delivery
-<img src="https://img.shields.io/badge/Microsoft_Fabric-1B1B1B?style=for-the-badge&logo=microsoft&logoColor=white"/>
+**⚙️ Automation**
+
+<img src="https://img.shields.io/badge/VBA-9B59B6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apps_Script-EA4335?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+
+<br/><br/>
+
+**💻 Programming (Fundamentals)**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br/><br/>
+
+**🧹 Data Quality & Delivery**
+
+<img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Validation-00BCD4?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/KPI_Tracking-E91E63?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-6D28D9?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Assisted_Dev-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
+
+> 📌 Tools are grouped by *how I use them*, not ranked — Excel/VBA/Power Query are daily-driver tools, Power BI/Automate/Python are actively applied, and SQL is a fundamentals-level skill I'm building hands-on query experience in (Oracle-certified coursework).
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
