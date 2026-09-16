@@ -144,7 +144,7 @@ Excel + Google Sheets pipeline auto-generating formatted marksheets for 1,500+ s
 
 <div align="center">
 
-📁 See the full case studies on my **[portfolio](https://shamilanalytics.vercel.app)**
+📁 See the full case studies on my **[portfolio](https://shamil-data-analyst-portfolio.vercel.app/)**
 
 </div>
 
